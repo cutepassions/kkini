@@ -17,8 +17,36 @@
 
 # 사용 기술
 ## FrontEnd
+<img src="https://img.shields.io/badge/react [18.2]-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/redux [4.21]-764ABC?style=flat&logo=redux&logoColor=white" />  
+
 
 ## BackEnd
+<img src="https://img.shields.io/badge/Java [11]-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring [5.3.27]-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring Boot [2.7.14]-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring Security [2.5.0]-6DB33F?style=flat&logo=Spring Security&logoColor=white" />  
+
+
+## DataBase
+<img src="https://img.shields.io/badge/mariadb [10.3.23]-003545?style=flat&logo=MariaDB&logoColor=white" />  
+
+
+# 라이브러리
+## FrontEnd
+<img src="https://img.shields.io/badge/redux toolkit [1.95]-764ABC?style=flat&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Swiper [6.8.4]-6332F6?style=flat&logo=swiper&logoColor=white" />
+<img src="https://img.shields.io/badge/React Intersection Observer [9.5.2]-6332F6?style=flat&logo=react&logoColor=white" />
+
+
+## BackEnd
+<img src="https://img.shields.io/badge/swagger [1.7.0]-85EA2D?style=flat&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/Json Web Tokens [0.11.5]-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon Aws [2.2.6]-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Oauth2 [몰라요]-EB5424?style=flat&logo=auth0&logoColor=white" />  
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white" />  
+
+
 
 # 팀원소개 🤝
 ## FrontEnd 🖌️
