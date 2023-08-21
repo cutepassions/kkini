@@ -15,6 +15,11 @@
 # 개발 기간 🏁
 * 7/4 ~ 8/17 (7주)
 
+# 사용 기술
+## FrontEnd
+
+## BackEnd
+
 # 팀원소개 🤝
 ## FrontEnd 🖌️
 <table align="center">
