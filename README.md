@@ -97,23 +97,27 @@
 
 |                                                     로그인                                                      |
 |:------------------------------------------------------------------------------------------------------------:|
-|![l로그인](image/login.png)|
+|<img src="image/login.png" alt="로그인" width="250"/>|
 
 | 레시피 등록 |
 |:------:|
-| ![레시피](image/post.png) |
+|<img src="image/post.png" alt="포스트" width="250"/>|
 
 | 금액 평가 |
 |:-----:|
-| ![금액평가](image/evalution.png) |
+|<img src="image/evalution.png" alt="금액평가" width="250"/>|
 
 | 추천 피드 |
 |:-----:|
-| ![추천피드](image/search.png) |
+|<img src="image/search.png" alt="추천피드" width="250"/>|
 
 | 도감 |
 |:--:|
-| ![도감](image/collection.png) |
+|<img src="image/collection.png" alt="도감" width="250"/>|
+
+| 마이페이지 |
+|:--:|
+|<img src="image/mypage.PNG" alt="마이페이지" width="250"/>|
 
 </div> 
 
