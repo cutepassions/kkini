@@ -15,6 +15,9 @@
 # 🏁 개발 기간 
 * 7/4 ~ 8/17 (7주)
 
+# 🖥 사용 서버
+* AWS Lightsail ($80)
+
 # 💻 사용 기술 
 ## 🖌️ FrontEnd
 <img src="https://img.shields.io/badge/react [18.2]-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/redux [4.21]-764ABC?style=flat&logo=redux&logoColor=white" />  
