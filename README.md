@@ -160,7 +160,7 @@
 
 |                                           Entity Relational Diagram                                            |
 |:--------------------------------------------------------------------------------------------------------------:|
-| ![KkiNi_ERD](https://github.com/Lets-Travel-Well/.github/assets/50614241/9ea91b9a-24a1-4ed7-ab4d-6b6e730f92fd) |  
+| ![KkiNi_ERD](image/erd.png) |  
 
 </div>
 
