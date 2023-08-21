@@ -97,23 +97,23 @@
 
 |                                                     로그인                                                      |
 |:------------------------------------------------------------------------------------------------------------:|
-| ![image (2)](https://github.com/byh9811/JobPreparation/assets/50614241/df0d12a7-0086-4b07-b2d5-3944f4387c05) |
+|![l로그인](image/login.png)|
 
 | 레시피 등록 |
 |:------:|
-| ![image (3)](https://github.com/byh9811/JobPreparation/assets/50614241/208d7b05-7109-4d59-af69-a8fcf5a5a73c) |
+| ![레시피](image/post.png) |
 
 | 금액 평가 |
 |:-----:|
-| ![image (4)](https://github.com/byh9811/JobPreparation/assets/50614241/b681fd36-3a02-4327-99fd-31a9aa8cda01) |
+| ![금액평가](image/evalution.png) |
 
 | 추천 피드 |
 |:-----:|
-| ![image (5)](https://github.com/byh9811/JobPreparation/assets/50614241/8a2a08d9-99a9-47e8-9cc3-a6ddb9fc79ed) |
+| ![추천피드](image/search.png) |
 
 | 도감 |
 |:--:|
-| ![image (6)](https://github.com/byh9811/JobPreparation/assets/50614241/37baa58c-8dcc-4fe8-89a3-c519decb0be6) |
+| ![도감](image/collection.png) |
 
 </div> 
 
