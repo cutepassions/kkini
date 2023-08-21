@@ -87,7 +87,7 @@
     <tr align="center">
         <td style="min-width: 150px;">
             <a href="https://github.com/imbeom35">
-              <img src="image/imbeom.png" width="200">
+              <img src="https://avatars.githubusercontent.com/u/97426151?v=4" width="200">
               <br />
               <b>imbeom35</b>
             </a> 
