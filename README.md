@@ -133,7 +133,7 @@
 
 | 금액 평가 |
 |:-----:|
-|<img src="image/evalution.png" alt="금액평가" width="250"/>|
+|<img src="image/금액평가.gif" alt="금액평가" width="250"/>|
 
 | 추천 피드 |
 |:-----:|
