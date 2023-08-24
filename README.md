@@ -125,11 +125,11 @@
 
 |                                                     로그인                                                      |
 |:------------------------------------------------------------------------------------------------------------:|
-|<img src="image/login.png" alt="로그인" width="250"/>|
+|<img src="image/네이버 로그인.gif" alt="로그인" width="250"/>|
 
 | 레시피 등록 |
 |:------:|
-|<img src="image/post.png" alt="포스트" width="250"/>|
+|<img src="image/레시피 업로드.gif" alt="포스트" width="250"/>|
 
 | 금액 평가 |
 |:-----:|
@@ -137,11 +137,11 @@
 
 | 추천 피드 |
 |:-----:|
-|<img src="image/search.png" alt="추천피드" width="250"/>|
+|<img src="image/추천 피드.gif" alt="추천피드" width="250"/>|
 
 | 도감 |
 |:--:|
-|<img src="image/collection.png" alt="도감" width="250"/>|
+|<img src="image/도감.gif" alt="도감" width="250"/>|
 
 | 마이페이지 |
 |:--:|
